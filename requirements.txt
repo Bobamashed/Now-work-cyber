@@ -1,0 +1,6 @@
+Flask
+itsdangerous
+Werkzeug
+ipaddress
+gunicorn
+sendgrid
