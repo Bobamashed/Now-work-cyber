@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+    <H2>Admin Page</H2>
+    <p>Logged in as: {{session["user"]}}</p>
+</head>
+
+<body>
+    <h3>Sessions info</h3>
+    <ul>
+        {% for key, value in session.items() %}
+            <li><strong>{{ key }}</strong>: {{ value }}</li>
+        {% endfor %}
+    </ul>
+</body>

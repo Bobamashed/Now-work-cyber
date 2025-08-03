@@ -1,0 +1,10 @@
+[
+    {
+        "id": 37706,
+        "role": "admin",
+        "username": "Admins",
+        "email": "Admin@gmail.com",
+        "password": "scrypt:32768:8:1$PX1z5Mq1NYdnSG9t$7c0f52edfa81248372d850ae84dc42f9ce66ef01418d873d75287ef0181576bfae28acfb4b665369044ef9177b4be0a4291cfd0ed3ce7f94e5d91e21160b349c",
+        "last_ip": "127.0.0.1"
+    }
+]
